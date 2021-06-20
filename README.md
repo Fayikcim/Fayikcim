@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Eresbos!</h2>
+<h2 align="center">Selamın Aleyke!</h2>
 
 <h3>My Personal accounts:</h3>
 <p align="left">
